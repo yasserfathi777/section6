@@ -35,6 +35,6 @@ jobs:
     needs: test
     runs-on: ubuntu-latest
     steps:
-      - name: Output informationfdfdf
+      - name: Output informationfdfdfs
         run: |        
           echo "..."
